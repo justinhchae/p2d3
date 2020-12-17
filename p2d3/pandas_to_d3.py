@@ -63,24 +63,24 @@ class PandastoD3():
                                                   self.value: value}]}]}
                 self.flare[self.children].append(d)
 
+            elif level1 not in key1:
+
+                # if the root exists, then append to its children
+                # if level1 not in key1:
+
+                d = {self.name: level1,
+                      self.children: [{self.name: level2,
+                                       self.value: value}]}
+
+                self.flare[self.children][key0.index(level0)][self.children].append(d)
+
             else:
 
                 # if the root exists, then append to its children
-                if level1 not in key1:
+                d = {self.name: level2,
+                      self.value: value}
 
-                    d = {self.name: level1,
-                          self.children: [{self.name: level2,
-                                           self.value: value}]}
-
-                    self.flare[self.children][key0.index(level0)][self.children].append(d)
-
-                else:
-
-                    # if the root exists, then append to its children
-                    d = {self.name: level2,
-                          self.value: value}
-
-                    self.flare[self.children][key0.index(level0)][self.children][key1.index(level1)][self.children].append(d)
+                self.flare[self.children][key0.index(level0)][self.children][key1.index(level1)][self.children].append(d)
 
         # save to some file
 

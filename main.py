@@ -21,15 +21,19 @@ if __name__ == '__main__':
     df = df[(df['SERVICEORDERSTATUS'] == 'closed')]
 
     parse_dates.append('SERVICEORDERSTATUS')
+
     df.drop(columns=parse_dates, axis=1, inplace=True)
 
-    group = ['WARD', 'ORGANIZATIONACRONYM', 'SERVICECODEDESCRIPTION']
+
     df = df[['WARD', 'ORGANIZATIONACRONYM', 'SERVICECODEDESCRIPTION', 'service_time']]
 
+    pd.set_option('display.max_columns', None)
     df.dropna(thresh=2, inplace=True)
+    df.dropna(subset=['WARD'], inplace=True)
 
     df['WARD'] = 'WARD ' + df['WARD'].astype(str)
 
+    group = ['WARD', 'ORGANIZATIONACRONYM', 'SERVICECODEDESCRIPTION']
     df = df.groupby(group)[['service_time']].mean().dropna(axis=0, how='any')
 
     df = df.reset_index()
