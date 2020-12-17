@@ -26,7 +26,7 @@ class PandastoD3():
         :reference
         - https://stackoverflow.com/questions/59946453/creating-a-flare-json-to-be-used-in-d3-from-pandas-dataframe/65333978#65333978
         - https://github.com/andrewheekin/csv2flare.json/blob/master/csv2flare.json.py
-        
+
         """
 
         # iterate through dataframe values
