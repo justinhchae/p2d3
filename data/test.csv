@@ -1,0 +1,735 @@
+,WARD,ORGANIZATIONACRONYM,SERVICECODEDESCRIPTION,service_time
+0,1,DCRA,DCRA - Illegal Construction,210.40070746527792
+1,1,DCRA,DCRA - Vacant Private Property Inspection,635.8518215710985
+2,1,DDOT,Alley Repair,1905.3464444444442
+3,1,DDOT,Bicycle Services,1527.2564393939392
+4,1,DDOT,Bus/Rail Issues,755.8567283950617
+5,1,DDOT,Parking Meter Repair,116.46320546737212
+6,1,DDOT,Pothole,298.49535575048725
+7,1,DDOT,Resident Parking Permit,3.7880555555555557
+8,1,DDOT,Roadway Repair,3384.3470410628024
+9,1,DDOT,Roadway Signs,1723.8695931899622
+10,1,DDOT,Roadway Striping / Markings,0.009444444444444445
+11,1,DDOT,Sidewalk Repair,2560.917094907407
+12,1,DDOT,Streetlight Repair Investigation,232.22463534194193
+13,1,DDOT,Traffic Safety Investigation,597.0553055555556
+14,1,DDOT,Traffic Signal Issue,121.03866147741158
+15,1,DDOT,Tree Inspection,22.72316572902017
+16,1,DDOT,Tree Planting,940.7151949786326
+17,1,DDOT,Tree Pruning,1096.5127645502637
+18,1,DDOT,Tree Removal,417.2420823483059
+19,1,DDOT,Utility Repair Issue,1686.8540753968252
+20,1,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),53.05279239766081
+21,1,DMV,DMV - Appeal,341.65430555555554
+22,1,DMV,DMV - Copy of Ticket,167.68006410256413
+23,1,DMV,DMV - Driver Record Issues,242.9063888888889
+24,1,DMV,DMV - Driver and Vehicle Services Refund,229.02450617283952
+25,1,DMV,DMV - Drivers License/ID Issues,98.33233469202894
+26,1,DMV,DMV - Drivers License/ID Reinstatement,68.94988888888889
+27,1,DMV,"DMV - Forms, Applications, and Manuals Request",188.82674291938994
+28,1,DMV,DMV - Hearings,236.2787037037037
+29,1,DMV,DMV - Online Processing Issues,162.26791666666665
+30,1,DMV,DMV - Processing Center Manager,71.58361111111111
+31,1,DMV,DMV - Refunds - Tickets,262.6686111111111
+32,1,DMV,DMV - Ticket Payment Dispute,305.2829365079365
+33,1,DMV,DMV - Vehicle Inspection Issues,225.62143518518516
+34,1,DMV,DMV - Vehicle Insurance Lapse,209.00055555555556
+35,1,DMV,DMV - Vehicle Registration Issues,156.52111600587364
+36,1,DMV,DMV - Vehicle Title Issues,234.7295222222222
+37,1,DOEE,DOEE - Bag Law Tips,3338.795694444444
+38,1,DOEE,DOEE - Engine Idling Tips,1063.2408905228756
+39,1,DOEE,DOEE - Foam Ban / Food Service Ware Requirements,44.66236111111111
+40,1,DOEE,DOEE - Nuisance Odor Complaints,363.9832407407407
+41,1,DOH,Rodent Inspection and Treatment,95.72431646216764
+42,1,DPW,Abandoned Bicycle,296.6558441358024
+43,1,DPW,Abandoned Vehicle - On Private Property,213.6591750841751
+44,1,DPW,Abandoned Vehicle - On Public Property,256.56598987758946
+45,1,DPW,Alley Cleaning,513.1365442890444
+46,1,DPW,Bulk Collection,350.06428582309854
+47,1,DPW,Christmas Tree Removal-Missed,101.40037037037035
+48,1,DPW,Christmas Tree Removal-Seasonal,278.5227431809064
+49,1,DPW,Container Removal,581.4135219164119
+50,1,DPW,Dead Animal Collection,41.2352150537634
+51,1,DPW,Emergency No-Parking Verification,15.327434394193213
+52,1,DPW,Graffiti Removal,244.22994505494523
+53,1,DPW,Grass and Weeds Mowing,475.520411111111
+54,1,DPW,Illegal Dumping,203.04095791066024
+55,1,DPW,Illegal Poster,51.210483963344785
+56,1,DPW,Leaf Season Collection,329.0767063492063
+57,1,DPW,Out of State Parking Violation (ROSA),46.96706541218639
+58,1,DPW,Parking Enforcement,16.390193512182755
+59,1,DPW,Public Space Litter Can- Installation/Removal/Repair,864.7897740112995
+60,1,DPW,Public Space Litter Can-Collection,16.665736994219657
+61,1,DPW,Rat Replacement Containers,580.4628465063
+62,1,DPW,Recycling Cart - Repair,870.9150957854408
+63,1,DPW,Recycling Cart Delivery,395.0587321764862
+64,1,DPW,Recycling Collection - Missed,69.36646201814061
+65,1,DPW,Recycling- Information Request,13.354166666666666
+66,1,DPW,Residential Parking Permit Violation,55.31760954616591
+67,1,DPW,Sanitation Enforcement,56.87174933607483
+68,1,DPW,Signed Street Sweeping Missed,128.1199722222222
+69,1,DPW,Snow/Ice Removal,2.163611111111111
+70,1,DPW,Street Cleaning,828.6226972325485
+71,1,DPW,Supercan - Delivery,294.218630050505
+72,1,DPW,Supercan - Repair,857.1368840579711
+73,1,DPW,Trash Cart - Delivery,385.2385404444441
+74,1,DPW,Trash Cart Repair,845.8760861823359
+75,1,DPW,Trash Collection - Missed,52.68900496362066
+76,1,DPW,Vacant Lot - Public Property Only,99.83761752136753
+77,1,DPW,Yard Waste - Missed,79.97266589506177
+78,1,FEMS,FEMS - Community Events,215.33921568627446
+79,1,FEMS,FEMS - Fire Safety Education,810.4313888888889
+80,1,FEMS,FEMS - Fire Safety Inspection,192.365
+81,1,FEMS,FEMS - Smoke Alarm Application,322.68824074074075
+82,1,ORM,How Is My Driving - Complaint,3589.2303787878786
+83,1,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+84,1,OUC,DC Government Information,0.0025859788359788357
+85,1,OUC,Emergency - Power Outage/Wires Down,0.0
+86,1,OUC,Hypothermia Shelter Information,0.0
+87,1,OUC,Illegal Fireworks,0.011481481481481481
+88,1,OUC,Pet Waste Complaint,0.008697916666666666
+89,1,OUC,Wire Down/Power Outage,0.010499999999999999
+90,2,DCRA,DCRA - Illegal Construction,306.1214043209876
+91,2,DCRA,DCRA - Vacant Private Property Inspection,537.8355742122724
+92,2,DDOT,Alley Repair,1924.7204292929296
+93,2,DDOT,Bicycle Services,1476.2608194444445
+94,2,DDOT,Bus/Rail Issues,799.6839814814815
+95,2,DDOT,Parking Meter Repair,81.65416896384934
+96,2,DDOT,Pothole,269.4652565037682
+97,2,DDOT,Resident Parking Permit,817.9786111111111
+98,2,DDOT,Roadway Repair,2778.8479761904755
+99,2,DDOT,Roadway Signs,1809.7356119341562
+100,2,DDOT,Roadway Striping / Markings,3510.918287037037
+101,2,DDOT,Sidewalk Repair,1207.187606209152
+102,2,DDOT,Streetlight Repair Investigation,226.55674456859137
+103,2,DDOT,Traffic Safety Investigation,803.7315000000001
+104,2,DDOT,Traffic Signal Issue,109.39394601430325
+105,2,DDOT,Tree Inspection,26.14976876609228
+106,2,DDOT,Tree Planting,1086.5282389770714
+107,2,DDOT,Tree Pruning,983.8545398970398
+108,2,DDOT,Tree Removal,278.4871689814816
+109,2,DDOT,Utility Repair Issue,1604.1219398907103
+110,2,DFHV,DFHV - Lost and Found Claims (DC Taxi),705.2405555555556
+111,2,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),111.7498611111111
+112,2,DMV,DMV - Appeal,357.5426851851851
+113,2,DMV,DMV - Copy of Ticket,170.0117361111111
+114,2,DMV,DMV - Driver Record Issues,243.5875
+115,2,DMV,DMV - Driver and Vehicle Services Refund,232.53713888888888
+116,2,DMV,DMV - Drivers License/ID Issues,92.7763286769428
+117,2,DMV,"DMV - Forms, Applications, and Manuals Request",216.96879844961242
+118,2,DMV,DMV - Hearings,231.77642361111108
+119,2,DMV,DMV - Online Processing Issues,170.67558823529416
+120,2,DMV,DMV - Refunds - Tickets,148.08069444444445
+121,2,DMV,DMV - Ticket Payment Dispute,334.55925925925925
+122,2,DMV,DMV - Vehicle Inspection Issues,217.24999999999997
+123,2,DMV,DMV - Vehicle Insurance Lapse,262.8283333333333
+124,2,DMV,DMV - Vehicle Registration Issues,152.7031923868313
+125,2,DMV,DMV - Vehicle Title Issues,213.45124396135262
+126,2,DMV,DMV - eTIMS Ticket Alert Services Issues,335.88138888888886
+127,2,DOEE,DOEE - Bag Law Tips,261.2402777777778
+128,2,DOEE,DOEE - Construction – Erosion Runoff,338.62111111111113
+129,2,DOEE,DOEE - Engine Idling Tips,829.7453761574073
+130,2,DOEE,DOEE - Foam Ban / Food Service Ware Requirements,335.52324074074073
+131,2,DOEE,DOEE - Nuisance Odor Complaints,681.4682638888888
+132,2,DOEE,DOEE - Reporting Electronics in Trash,739.0752777777777
+133,2,DOH,Rodent Inspection and Treatment,122.4501910887398
+134,2,DPW,Abandoned Bicycle,290.60839015151504
+135,2,DPW,Abandoned Vehicle - On Private Property,470.0320987654321
+136,2,DPW,Abandoned Vehicle - On Public Property,275.4081042568543
+137,2,DPW,Alley Cleaning,795.017800127714
+138,2,DPW,Bulk Collection,217.3683457139481
+139,2,DPW,Christmas Tree Removal-Missed,60.00361111111111
+140,2,DPW,Christmas Tree Removal-Seasonal,301.4616425120771
+141,2,DPW,Container Removal,731.7703696895429
+142,2,DPW,Dead Animal Collection,39.323331815421966
+143,2,DPW,Emergency No-Parking Verification,10.859201421309255
+144,2,DPW,Graffiti Removal,232.9241648957699
+145,2,DPW,Grass and Weeds Mowing,652.579050925926
+146,2,DPW,Illegal Dumping,194.2252465277778
+147,2,DPW,Illegal Poster,48.11288383838383
+148,2,DPW,Leaf Season Collection,375.1573511904762
+149,2,DPW,Out of State Parking Violation (ROSA),80.01783509700175
+150,2,DPW,Parking Enforcement,18.78846978389758
+151,2,DPW,Public Space Litter Can- Installation/Removal/Repair,946.4358420138888
+152,2,DPW,Public Space Litter Can-Collection,18.696560060060072
+153,2,DPW,Rat Replacement Containers,364.5495538720538
+154,2,DPW,Recycling - Commercial Only,3745.353888888889
+155,2,DPW,Recycling - School Program,180.84064814814815
+156,2,DPW,Recycling Cart - Repair,865.788736111111
+157,2,DPW,Recycling Cart Delivery,472.49994846656625
+158,2,DPW,Recycling Collection - Missed,63.81737957102673
+159,2,DPW,Recycling- Information Request,144.46222222222224
+160,2,DPW,Residential Parking Permit Violation,39.482325628548246
+161,2,DPW,Sanitation Enforcement,58.68459709709713
+162,2,DPW,Signed Street Sweeping Missed,152.41333333333333
+163,2,DPW,Street Cleaning,888.6092980480478
+164,2,DPW,Supercan - Delivery,358.8819270833333
+165,2,DPW,Supercan - Repair,1233.3043518518518
+166,2,DPW,Trash Cart - Delivery,416.87583798882656
+167,2,DPW,Trash Cart Repair,981.4191013071895
+168,2,DPW,Trash Collection - Missed,56.709023159988604
+169,2,DPW,Vacant Lot - Public Property Only,82.61690476190475
+170,2,DPW,Yard Waste - Missed,81.22712410171366
+171,2,FEMS,FEMS - Community Events,236.8533024691358
+172,2,FEMS,FEMS - Fire Safety Education,809.9022222222222
+173,2,FEMS,FEMS - Fire Safety Inspection,413.25131944444445
+174,2,FEMS,FEMS - Smoke Alarm Application,754.96375
+175,2,ORM,How Is My Driving - Complaint,3641.5222089947083
+176,2,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+177,2,OUC,DC Government Information,0.0012283950617283951
+178,2,OUC,Hypothermia Shelter Information,0.0
+179,2,OUC,Illegal Fireworks,0.010972222222222223
+180,2,OUC,Pet Waste Complaint,0.009704861111111114
+181,2,OUC,Wire Down/Power Outage,0.011851851851851851
+182,3,DCRA,DCRA - Illegal Construction,216.1346474358975
+183,3,DCRA,DCRA - Vacant Private Property Inspection,598.5622306397306
+184,3,DDOT,Alley Repair,3710.6981481481484
+185,3,DDOT,Bicycle Services,192.09305555555557
+186,3,DDOT,Bus/Rail Issues,531.1236574074074
+187,3,DDOT,Parking Meter Repair,99.31839220014724
+188,3,DDOT,Pothole,273.264038496625
+189,3,DDOT,Resident Parking Permit,0.4039814814814815
+190,3,DDOT,Roadway Repair,3266.748931992336
+191,3,DDOT,Roadway Signs,2179.8938040392304
+192,3,DDOT,Roadway Striping / Markings,3778.8656481481485
+193,3,DDOT,Sidewalk Repair,2974.1757870370366
+194,3,DDOT,Streetlight Repair Investigation,132.6959737846197
+195,3,DDOT,Traffic Safety Investigation,735.706876693767
+196,3,DDOT,Traffic Signal Issue,108.31067198581565
+197,3,DDOT,Tree Inspection,20.261050535766003
+198,3,DDOT,Tree Planting,1239.4010072772455
+199,3,DDOT,Tree Pruning,989.2541767254721
+200,3,DDOT,Tree Removal,375.0813072973963
+201,3,DDOT,Utility Repair Issue,1466.184555555556
+202,3,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),107.70455761316869
+203,3,DMV,DMV - Appeal,325.5015740740741
+204,3,DMV,DMV - Copy of Ticket,176.2251111111111
+205,3,DMV,DMV - Driver Record Issues,211.85166666666666
+206,3,DMV,DMV - Driver and Vehicle Services Refund,236.8371666666667
+207,3,DMV,DMV - Drivers License/ID Issues,96.72017543859656
+208,3,DMV,"DMV - Forms, Applications, and Manuals Request",200.24299305555553
+209,3,DMV,DMV - Hearings,71.2936111111111
+210,3,DMV,DMV - Online Processing Issues,157.03574494949495
+211,3,DMV,DMV - Refunds - Tickets,285.7158333333333
+212,3,DMV,DMV - Ticket Payment Dispute,371.24361111111114
+213,3,DMV,DMV - Vehicle Inspection Issues,228.15060606060607
+214,3,DMV,DMV - Vehicle Insurance Lapse,196.4975
+215,3,DMV,DMV - Vehicle Registration Issues,156.20935592185592
+216,3,DMV,DMV - Vehicle Title Issues,230.0660590277778
+217,3,DMV,DMV - eTIMS Ticket Alert Services Issues,332.9125
+218,3,DOEE,DOEE - Construction – Erosion Runoff,46.391666666666666
+219,3,DOEE,DOEE - Engine Idling Tips,787.4660606060606
+220,3,DOEE,DOEE - Nuisance Odor Complaints,83.29652777777778
+221,3,DOH,Rodent Inspection and Treatment,98.71275780060878
+222,3,DPW,Abandoned Bicycle,284.1702573529413
+223,3,DPW,Abandoned Vehicle - On Private Property,319.04856725146203
+224,3,DPW,Abandoned Vehicle - On Public Property,234.14834868788364
+225,3,DPW,Alley Cleaning,1055.2427865497075
+226,3,DPW,Bulk Collection,299.6541856773701
+227,3,DPW,Christmas Tree Removal-Missed,85.05964285714285
+228,3,DPW,Christmas Tree Removal-Seasonal,253.16971407750322
+229,3,DPW,Container Removal,687.6980715005037
+230,3,DPW,Dead Animal Collection,42.551286111111146
+231,3,DPW,Emergency No-Parking Verification,12.38380448475686
+232,3,DPW,Graffiti Removal,221.37150332225923
+233,3,DPW,Grass and Weeds Mowing,534.2920758661888
+234,3,DPW,Illegal Dumping,176.81848261526835
+235,3,DPW,Illegal Poster,40.95598233995586
+236,3,DPW,Leaf Season Collection,214.78913834951425
+237,3,DPW,Out of State Parking Violation (ROSA),37.925310019841284
+238,3,DPW,Parking Enforcement,16.284276270006973
+239,3,DPW,Public Space Litter Can- Installation/Removal/Repair,853.6929671717171
+240,3,DPW,Public Space Litter Can-Collection,21.09150546919978
+241,3,DPW,Rat Replacement Containers,696.376049382716
+242,3,DPW,Recycling Cart - Repair,775.4584494949495
+243,3,DPW,Recycling Cart Delivery,435.5519106720704
+244,3,DPW,Recycling Collection - Missed,59.49327361452361
+245,3,DPW,Residential Parking Permit Violation,32.520224673202634
+246,3,DPW,Sanitation Enforcement,80.29444709837227
+247,3,DPW,Signed Street Sweeping Missed,555.4425
+248,3,DPW,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),186.8525
+249,3,DPW,Street Cleaning,873.9555340038312
+250,3,DPW,Supercan - Delivery,406.60215546347456
+251,3,DPW,Supercan - Repair,896.3060422602091
+252,3,DPW,Trash Cart - Delivery,328.56113351254476
+253,3,DPW,Trash Cart Repair,977.2196545584045
+254,3,DPW,Trash Collection - Missed,53.635520488181974
+255,3,DPW,Vacant Lot - Public Property Only,173.81345238095238
+256,3,DPW,Yard Waste - Missed,94.38247909199514
+257,3,FEMS,FEMS - Community Events,264.01951388888887
+258,3,FEMS,FEMS - Fire Safety Inspection,505.76
+259,3,FEMS,FEMS - Smoke Alarm Application,265.7938888888889
+260,3,ORM,How Is My Driving - Complaint,4466.3299691358025
+261,3,ORM,How Is My Driving - Compliment,1001.8691666666666
+262,3,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+263,3,OUC,DC Government Information,0.001586021505376344
+264,3,OUC,Emergency - Power Outage/Wires Down,0.0
+265,3,OUC,Illegal Fireworks,0.005138888888888889
+266,3,OUC,Pet Waste Complaint,0.009188034188034187
+267,3,OUC,Wire Down/Power Outage,0.010920634920634923
+268,4,DCRA,DCRA - Illegal Construction,200.5013102725367
+269,4,DCRA,DCRA - Vacant Private Property Inspection,729.0728571428568
+270,4,DDOT,Alley Repair,2154.912992424242
+271,4,DDOT,Bicycle Services,878.535787037037
+272,4,DDOT,Bus/Rail Issues,772.3911846405229
+273,4,DDOT,Parking Meter Repair,87.0167040977147
+274,4,DDOT,Pothole,208.96602787990176
+275,4,DDOT,Resident Parking Permit,360.3355555555556
+276,4,DDOT,Roadway Repair,3081.6462472766893
+277,4,DDOT,Roadway Signs,1465.2522580927373
+278,4,DDOT,Roadway Striping / Markings,2671.639413580247
+279,4,DDOT,Sidewalk Repair,2579.1709699453563
+280,4,DDOT,Streetlight Repair Investigation,201.00848281085652
+281,4,DDOT,Traffic Safety Investigation,745.6668187830686
+282,4,DDOT,Traffic Signal Issue,137.1140816326531
+283,4,DDOT,Tree Inspection,24.905285878540838
+284,4,DDOT,Tree Planting,1657.1349115456258
+285,4,DDOT,Tree Pruning,1330.579645308924
+286,4,DDOT,Tree Removal,582.0453696355085
+287,4,DDOT,Utility Repair Issue,1164.9816851851851
+288,4,DFHV,DFHV - For Hire Vehicle Concerns,360.2077777777778
+289,4,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),74.32874007936508
+290,4,DMV,DMV - Adjudication Supervisor,42.687222222222225
+291,4,DMV,DMV - Appeal,293.73592592592587
+292,4,DMV,DMV - Copy of Ticket,152.0053282828283
+293,4,DMV,DMV - Driver Record Issues,252.20206349206344
+294,4,DMV,DMV - Driver and Vehicle Services Refund,231.00677777777778
+295,4,DMV,DMV - Drivers License/ID Issues,95.53514798987015
+296,4,DMV,DMV - Drivers License/ID Reinstatement,110.7159126984127
+297,4,DMV,"DMV - Forms, Applications, and Manuals Request",191.14547048611115
+298,4,DMV,DMV - Hearings,217.5239814814815
+299,4,DMV,DMV - Online Processing Issues,178.3659188034188
+300,4,DMV,DMV - Processing Center Manager,118.45138888888889
+301,4,DMV,DMV - Refunds - Tickets,231.27694444444444
+302,4,DMV,DMV - Ticket Payment Dispute,340.90506944444445
+303,4,DMV,DMV - Vehicle Inspection Issues,226.61163194444447
+304,4,DMV,DMV - Vehicle Insurance Lapse,212.73555555555555
+305,4,DMV,DMV - Vehicle Registration Issues,156.71147053872056
+306,4,DMV,DMV - Vehicle Title Issues,230.3061587301587
+307,4,DOEE,DOEE - Engine Idling Tips,642.4314506172839
+308,4,DOEE,DOEE - Nuisance Odor Complaints,1112.0098737373735
+309,4,DOEE,DOEE - Reporting Electronics in Trash,461.85125
+310,4,DOH,Rodent Inspection and Treatment,138.81719009489925
+311,4,DPW,Abandoned Bicycle,295.20410818713447
+312,4,DPW,Abandoned Vehicle - On Private Property,312.02324305555555
+313,4,DPW,Abandoned Vehicle - On Public Property,202.66293820777952
+314,4,DPW,Alley Cleaning,806.3785212285449
+315,4,DPW,Bulk Collection,215.27078005115146
+316,4,DPW,Christmas Tree Removal-Missed,86.01575757575758
+317,4,DPW,Christmas Tree Removal-Seasonal,296.8789589867875
+318,4,DPW,Container Removal,636.4342123954078
+319,4,DPW,Dead Animal Collection,41.973862651152125
+320,4,DPW,Emergency No-Parking Verification,14.257666318355984
+321,4,DPW,Graffiti Removal,246.65848093681922
+322,4,DPW,Grass and Weeds Mowing,508.91017876787674
+323,4,DPW,Illegal Dumping,184.3937161183527
+324,4,DPW,Illegal Poster,49.82065442561204
+325,4,DPW,Leaf Season Collection,183.1944238095238
+326,4,DPW,Out of State Parking Violation (ROSA),41.39539650079524
+327,4,DPW,Parking Enforcement,18.55279960769426
+328,4,DPW,Public Space Litter Can- Installation/Removal/Repair,803.5729444444443
+329,4,DPW,Public Space Litter Can-Collection,18.216413663663655
+330,4,DPW,Rat Replacement Containers,486.87235632183905
+331,4,DPW,Recycling Cart - Repair,1064.0590800477896
+332,4,DPW,Recycling Cart Delivery,399.88551909051904
+333,4,DPW,Recycling Collection - Missed,50.49175136745859
+334,4,DPW,Recycling- Information Request,1737.4966666666667
+335,4,DPW,Residential Parking Permit Violation,29.667922627563183
+336,4,DPW,Sanitation Enforcement,60.682437847562845
+337,4,DPW,Signed Street Sweeping Missed,425.7313492063492
+338,4,DPW,Snow/Ice Removal,74.71962962962964
+339,4,DPW,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),23.239444444444445
+340,4,DPW,Street Cleaning,916.5647299027141
+341,4,DPW,Supercan - Delivery,368.4797094421892
+342,4,DPW,Supercan - Repair,956.6166757443721
+343,4,DPW,Trash Cart - Delivery,342.04299707602325
+344,4,DPW,Trash Cart Repair,944.9656639085895
+345,4,DPW,Trash Collection - Missed,47.002585762791306
+346,4,DPW,Vacant Lot - Public Property Only,190.69307539682538
+347,4,DPW,Yard Waste - Missed,91.92810090218403
+348,4,FEMS,FEMS - Community Events,273.2398958333333
+349,4,FEMS,FEMS - Fire Safety Education,1141.3630555555555
+350,4,FEMS,FEMS - Smoke Alarm Application,489.54672839506173
+351,4,ORM,How Is My Driving - Complaint,4269.587948717949
+352,4,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+353,4,OUC,DC Government Information,0.0014253187613843352
+354,4,OUC,Emergency - Power Outage/Wires Down,0.0
+355,4,OUC,Illegal Fireworks,0.010277777777777778
+356,4,OUC,Pet Waste Complaint,0.011010802469135801
+357,4,OUC,Wire Down/Power Outage,0.009787234042553192
+358,5,DCRA,DCRA - Illegal Construction,340.29998207885296
+359,5,DCRA,DCRA - Vacant Private Property Inspection,716.1625216706066
+360,5,DDOT,Alley Repair,2144.2931018518516
+361,5,DDOT,Bicycle Services,754.2032291666667
+362,5,DDOT,Bus/Rail Issues,1145.8633134920635
+363,5,DDOT,Parking Meter Repair,251.11241505968763
+364,5,DDOT,Pothole,252.00287718700287
+365,5,DDOT,Resident Parking Permit,1441.5849305555555
+366,5,DDOT,Roadway Repair,3008.598016493055
+367,5,DDOT,Roadway Signs,1659.274774263313
+368,5,DDOT,Roadway Striping / Markings,605.4006944444444
+369,5,DDOT,Sidewalk Repair,2757.5717911877396
+370,5,DDOT,Streetlight Repair Investigation,259.51617488222445
+371,5,DDOT,Traffic Safety Investigation,1012.460138888889
+372,5,DDOT,Traffic Signal Issue,94.23222139795581
+373,5,DDOT,Tree Inspection,24.213327184258343
+374,5,DDOT,Tree Planting,1713.206081135091
+375,5,DDOT,Tree Pruning,1024.8876098606634
+376,5,DDOT,Tree Removal,488.29936766034376
+377,5,DDOT,Utility Repair Issue,1320.498938172043
+378,5,DFHV,DFHV - For Hire Vehicle Concerns,375.65527777777777
+379,5,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),189.06359686609682
+380,5,DMV,DMV - Adjudication Supervisor,47.22805555555556
+381,5,DMV,DMV - Appeal,340.64006944444446
+382,5,DMV,DMV - Copy of Ticket,135.42922453703704
+383,5,DMV,DMV - Driver Record Issues,240.41272222222224
+384,5,DMV,DMV - Driver and Vehicle Services Refund,259.46572649572647
+385,5,DMV,DMV - Drivers License/ID Issues,96.2166411505451
+386,5,DMV,DMV - Drivers License/ID Reinstatement,104.92730158730159
+387,5,DMV,"DMV - Forms, Applications, and Manuals Request",202.89596394407658
+388,5,DMV,DMV - Hearings,229.2974537037037
+389,5,DMV,DMV - Online Processing Issues,165.77008730158727
+390,5,DMV,DMV - Refunds - Tickets,241.26770833333333
+391,5,DMV,DMV - Ticket Payment Dispute,348.4730952380952
+392,5,DMV,DMV - Vehicle Inspection Issues,232.89304232804236
+393,5,DMV,DMV - Vehicle Insurance Lapse,262.3102777777778
+394,5,DMV,DMV - Vehicle Registration Issues,158.30799261497145
+395,5,DMV,DMV - Vehicle Title Issues,232.44025793650795
+396,5,DOEE,DOEE - Engine Idling Tips,505.19431286549707
+397,5,DOEE,DOEE - Nuisance Odor Complaints,460.4613940809969
+398,5,DOEE,DOEE - Reporting Electronics in Trash,167.4825
+399,5,DOH,Rodent Inspection and Treatment,103.10992783538154
+400,5,DPW,Abandoned Bicycle,263.91668518518514
+401,5,DPW,Abandoned Vehicle - On Private Property,668.4409739368999
+402,5,DPW,Abandoned Vehicle - On Public Property,439.08090929476356
+403,5,DPW,Alley Cleaning,984.8875894134466
+404,5,DPW,Bulk Collection,338.61893763354607
+405,5,DPW,Christmas Tree Removal-Missed,110.40779166666667
+406,5,DPW,Christmas Tree Removal-Seasonal,298.55852976458243
+407,5,DPW,Container Removal,584.7836246612474
+408,5,DPW,Dead Animal Collection,41.32384843581443
+409,5,DPW,Emergency No-Parking Verification,22.701642246642262
+410,5,DPW,Graffiti Removal,354.9851514390896
+411,5,DPW,Grass and Weeds Mowing,390.41558080808073
+412,5,DPW,Illegal Dumping,215.53176861572834
+413,5,DPW,Illegal Poster,83.29864583333331
+414,5,DPW,Leaf Season Collection,327.38627222222215
+415,5,DPW,Out of State Parking Violation (ROSA),46.48150542005423
+416,5,DPW,Parking Enforcement,15.899134779109046
+417,5,DPW,Public Space Litter Can- Installation/Removal/Repair,1016.1724460625676
+418,5,DPW,Public Space Litter Can-Collection,19.209526627218935
+419,5,DPW,Rat Replacement Containers,417.3922182539682
+420,5,DPW,Recycling - Commercial Only,113.53324074074074
+421,5,DPW,Recycling Cart - Repair,847.1974819331523
+422,5,DPW,Recycling Cart Delivery,392.3331861397481
+423,5,DPW,Recycling Collection - Missed,67.84115288449809
+424,5,DPW,Recycling- Information Request,3522.6080555555554
+425,5,DPW,Residential Parking Permit Violation,22.811377114108335
+426,5,DPW,Sanitation Enforcement,63.17623365392732
+427,5,DPW,Signed Street Sweeping Missed,299.12083333333334
+428,5,DPW,Snow Metro Bus Shelter/Stop,85.52319444444444
+429,5,DPW,Snow Sidewalk Shoveling Enforcement Exemption,0.9925
+430,5,DPW,Snow/Ice Removal,84.54930555555556
+431,5,DPW,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),192.9063888888889
+432,5,DPW,Street Cleaning,942.8303782120881
+433,5,DPW,Supercan - Delivery,365.80471179512875
+434,5,DPW,Supercan - Repair,1040.5398510709508
+435,5,DPW,Trash Cart - Delivery,338.0953403141361
+436,5,DPW,Trash Cart Repair,993.9920331790121
+437,5,DPW,Trash Collection - Missed,59.18405708874472
+438,5,DPW,Vacant Lot - Public Property Only,856.2929899691358
+439,5,DPW,Yard Waste - Missed,94.22059326138086
+440,5,FEMS,FEMS - Community Events,217.01142857142852
+441,5,FEMS,FEMS - Fire Safety Inspection,167.08527777777778
+442,5,FEMS,FEMS - Smoke Alarm Application,673.5943421052631
+443,5,ORM,How Is My Driving - Complaint,4148.074915123455
+444,5,ORM,How Is My Driving - Compliment,2723.5975
+445,5,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+446,5,OUC,DC Government Information,0.0019985569985569987
+447,5,OUC,Emergency - Flooding,0.0
+448,5,OUC,Emergency - Power Outage/Wires Down,0.0
+449,5,OUC,Hypothermia Shelter Information,0.0
+450,5,OUC,Illegal Fireworks,0.008735632183908045
+451,5,OUC,Pet Waste Complaint,0.011300813008130082
+452,5,OUC,Wire Down/Power Outage,0.010997942386831275
+453,6,DCRA,DCRA - Illegal Construction,342.8304667230679
+454,6,DCRA,DCRA - Vacant Private Property Inspection,571.8626977950715
+455,6,DDOT,Alley Repair,1637.877713675214
+456,6,DDOT,Bicycle Services,1390.0557777777776
+457,6,DDOT,Bus/Rail Issues,1227.0642283950622
+458,6,DDOT,Parking Meter Repair,150.11322603794727
+459,6,DDOT,Pothole,258.71152249564994
+460,6,DDOT,Resident Parking Permit,0.32
+461,6,DDOT,Roadway Repair,2964.5736166666666
+462,6,DDOT,Roadway Signs,2637.531110405197
+463,6,DDOT,Roadway Striping / Markings,2564.689656862745
+464,6,DDOT,Sidewalk Repair,2205.2731931702333
+465,6,DDOT,Streetlight Repair Investigation,390.3167416997127
+466,6,DDOT,Traffic Safety Investigation,690.4570878870675
+467,6,DDOT,Traffic Signal Issue,92.69188907345885
+468,6,DDOT,Tree Inspection,21.26132957690787
+469,6,DDOT,Tree Planting,1042.4059379084968
+470,6,DDOT,Tree Pruning,597.1137163184978
+471,6,DDOT,Tree Removal,478.1454953527672
+472,6,DDOT,Utility Repair Issue,1470.2016242283948
+473,6,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),89.5393605870021
+474,6,DMV,DMV - Adjudication Supervisor,105.99000000000001
+475,6,DMV,DMV - Appeal,323.84883333333335
+476,6,DMV,DMV - Copy of Ticket,171.07077485380114
+477,6,DMV,DMV - Driver Record Issues,238.16529914529912
+478,6,DMV,DMV - Driver and Vehicle Services Refund,246.34013285024156
+479,6,DMV,DMV - Drivers License/ID Issues,94.25139229422065
+480,6,DMV,DMV - Drivers License/ID Reinstatement,103.88942361111114
+481,6,DMV,"DMV - Forms, Applications, and Manuals Request",198.40747276688452
+482,6,DMV,DMV - Hearings,226.86846064814813
+483,6,DMV,DMV - Online Processing Issues,165.39831018518527
+484,6,DMV,DMV - Processing Center Manager,69.79583333333333
+485,6,DMV,DMV - Refunds - Tickets,239.14862847222224
+486,6,DMV,DMV - Ticket Payment Dispute,334.92204613095237
+487,6,DMV,DMV - Vehicle Inspection Issues,225.95525000000004
+488,6,DMV,DMV - Vehicle Insurance Lapse,264.73013888888886
+489,6,DMV,DMV - Vehicle Registration Issues,158.1704299404299
+490,6,DMV,DMV - Vehicle Title Issues,238.0831815578465
+491,6,DMV,DMV - eTIMS Ticket Alert Services Issues,303.4577777777778
+492,6,DMV,Ticket Ombudsman,2.776666666666667
+493,6,DOEE,DOEE - Construction – Erosion Runoff,197.11527777777778
+494,6,DOEE,DOEE - Engine Idling Tips,415.5873544973544
+495,6,DOEE,DOEE - Foam Ban / Food Service Ware Requirements,321.09561111111105
+496,6,DOEE,DOEE - Nuisance Odor Complaints,145.99855555555555
+497,6,DOEE,DOEE - Reporting Electronics in Trash,147.30407407407407
+498,6,DOH,Rodent Inspection and Treatment,107.07347645730174
+499,6,DPW,Abandoned Bicycle,310.5836435185186
+500,6,DPW,Abandoned Vehicle - On Private Property,304.4443957617411
+501,6,DPW,Abandoned Vehicle - On Public Property,285.053275162338
+502,6,DPW,Alley Cleaning,665.0924380341881
+503,6,DPW,Bulk Collection,315.1643537228882
+504,6,DPW,Christmas Tree Removal-Missed,110.2572385620915
+505,6,DPW,Christmas Tree Removal-Seasonal,308.7228118981838
+506,6,DPW,Container Removal,588.3158261078999
+507,6,DPW,Dead Animal Collection,42.49334293948127
+508,6,DPW,Emergency No-Parking Verification,16.04142317582771
+509,6,DPW,Graffiti Removal,357.5633480825955
+510,6,DPW,Grass and Weeds Mowing,393.4947511111112
+511,6,DPW,Illegal Dumping,297.87748436591045
+512,6,DPW,Illegal Poster,53.92771794871794
+513,6,DPW,Leaf Season Collection,366.74782010582004
+514,6,DPW,Neighborhood Clean-Up,2444.7229166666666
+515,6,DPW,Out of State Parking Violation (ROSA),39.79779061908623
+516,6,DPW,Parking Enforcement,19.474367255425417
+517,6,DPW,Public Space Litter Can- Installation/Removal/Repair,879.7506088280064
+518,6,DPW,Public Space Litter Can-Collection,21.116037186379938
+519,6,DPW,Rat Replacement Containers,569.5260942760941
+520,6,DPW,Recycling Cart - Repair,967.9884145299146
+521,6,DPW,Recycling Cart Delivery,393.37926394293123
+522,6,DPW,Recycling Collection - Missed,62.95489949258399
+523,6,DPW,Recycling- Information Request,742.1613333333333
+524,6,DPW,Residential Parking Permit Violation,30.25847414123976
+525,6,DPW,Sanitation Enforcement,96.66538194444449
+526,6,DPW,Signed Street Sweeping Missed,385.81166666666667
+527,6,DPW,Snow Metro Bus Shelter/Stop,14.064444444444444
+528,6,DPW,Street Cleaning,917.397429279673
+529,6,DPW,Supercan - Delivery,335.22612351190486
+530,6,DPW,Supercan - Repair,1071.0366161616162
+531,6,DPW,Trash Cart - Delivery,361.7782791803024
+532,6,DPW,Trash Cart Repair,934.7825624999999
+533,6,DPW,Trash Collection - Missed,52.893541780547224
+534,6,DPW,Vacant Lot - Public Property Only,123.63542114695342
+535,6,DPW,Yard Waste - Missed,101.86137620901154
+536,6,FEMS,FEMS - Community Events,243.40239583333334
+537,6,FEMS,FEMS - Fire Safety Inspection,231.43972222222223
+538,6,FEMS,FEMS - Smoke Alarm Application,763.7730555555555
+539,6,ORM,How Is My Driving - Complaint,3344.58419501134
+540,6,ORM,How Is My Driving - Compliment,6260.706111111111
+541,6,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+542,6,OUC,DC Government Information,0.0009520417853751188
+543,6,OUC,Emergency - Power Outage/Wires Down,0.0
+544,6,OUC,Hypothermia Shelter Information,0.0
+545,6,OUC,Illegal Fireworks,0.011388888888888888
+546,6,OUC,Pet Waste Complaint,0.011231884057971016
+547,6,OUC,Quarantine Resource and Service Request (COVID-19),0.05347222222222223
+548,6,OUC,Wire Down/Power Outage,0.009953703703703704
+549,7,DCRA,DCRA - Illegal Construction,263.22611111111115
+550,7,DCRA,DCRA - Vacant Private Property Inspection,982.91637295082
+551,7,DDOT,Alley Repair,1501.976875
+552,7,DDOT,Bicycle Services,715.3946666666668
+553,7,DDOT,Bus/Rail Issues,914.8037286324786
+554,7,DDOT,Parking Meter Repair,39.775779914529906
+555,7,DDOT,Pothole,221.92550797649022
+556,7,DDOT,Resident Parking Permit,931.6294444444444
+557,7,DDOT,Roadway Repair,2556.868888888889
+558,7,DDOT,Roadway Signs,1315.2032432231151
+559,7,DDOT,Sidewalk Repair,1929.4524335748793
+560,7,DDOT,Streetlight Repair Investigation,108.00305728088327
+561,7,DDOT,Traffic Safety Investigation,833.5065684468995
+562,7,DDOT,Traffic Signal Issue,103.47548611111111
+563,7,DDOT,Tree Inspection,54.385610504314926
+564,7,DDOT,Tree Planting,1735.7874629629628
+565,7,DDOT,Tree Pruning,734.8866803451183
+566,7,DDOT,Tree Removal,236.38224055273554
+567,7,DDOT,Utility Repair Issue,1096.8844523809526
+568,7,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),67.61914930555555
+569,7,DMV,DMV - Appeal,357.98083333333335
+570,7,DMV,DMV - Copy of Ticket,165.21651851851848
+571,7,DMV,DMV - Driver Record Issues,231.8449074074074
+572,7,DMV,DMV - Driver and Vehicle Services Refund,219.37346296296298
+573,7,DMV,DMV - Drivers License/ID Issues,97.059019607843
+574,7,DMV,DMV - Drivers License/ID Reinstatement,135.42046296296297
+575,7,DMV,"DMV - Forms, Applications, and Manuals Request",200.7140985324948
+576,7,DMV,DMV - Hearings,221.96633333333335
+577,7,DMV,DMV - Online Processing Issues,166.63237268518515
+578,7,DMV,DMV - Refunds - Tickets,205.37583333333333
+579,7,DMV,DMV - Ticket Payment Dispute,338.32746031746035
+580,7,DMV,DMV - Vehicle Inspection Issues,226.77898148148148
+581,7,DMV,DMV - Vehicle Insurance Lapse,226.43444444444444
+582,7,DMV,DMV - Vehicle Registration Issues,158.90427096241217
+583,7,DMV,DMV - Vehicle Title Issues,232.33117521367515
+584,7,DOEE,DOEE - Engine Idling Tips,137.63583333333335
+585,7,DOEE,DOEE - Nuisance Odor Complaints,325.79694444444436
+586,7,DOH,Rodent Inspection and Treatment,117.19244183006546
+587,7,DPW,Abandoned Bicycle,240.43440000000007
+588,7,DPW,Abandoned Vehicle - On Private Property,557.5605327868859
+589,7,DPW,Abandoned Vehicle - On Public Property,333.5531127616481
+590,7,DPW,Alley Cleaning,726.8524013157908
+591,7,DPW,Bulk Collection,293.8643208431581
+592,7,DPW,Christmas Tree Removal-Missed,54.11465277777778
+593,7,DPW,Christmas Tree Removal-Seasonal,220.0424222636817
+594,7,DPW,Container Removal,535.5055468749997
+595,7,DPW,Dead Animal Collection,41.81067757009347
+596,7,DPW,Emergency No-Parking Verification,29.341361111111105
+597,7,DPW,Graffiti Removal,208.29943236714976
+598,7,DPW,Grass and Weeds Mowing,423.4287480252769
+599,7,DPW,Illegal Dumping,206.63046066252608
+600,7,DPW,Illegal Poster,63.16426984126985
+601,7,DPW,Leaf Season Collection,375.14254861111107
+602,7,DPW,Neighborhood Clean-Up,1289.1691666666666
+603,7,DPW,Out of State Parking Violation (ROSA),56.00714697406336
+604,7,DPW,Parking Enforcement,23.52261146577494
+605,7,DPW,Public Space Litter Can- Installation/Removal/Repair,851.1239935064937
+606,7,DPW,Public Space Litter Can-Collection,21.79350378787878
+607,7,DPW,Rat Replacement Containers,156.9080864197531
+608,7,DPW,Recycling - Commercial Only,2063.073611111111
+609,7,DPW,Recycling Cart - Repair,760.7099999999999
+610,7,DPW,Recycling Cart Delivery,341.27063759962516
+611,7,DPW,Recycling Collection - Missed,68.34071033720295
+612,7,DPW,Recycling- Information Request,1202.2997222222223
+613,7,DPW,Residential Parking Permit Violation,23.856733147804572
+614,7,DPW,Sanitation Enforcement,65.14372422680418
+615,7,DPW,Signed Street Sweeping Missed,228.76866666666666
+616,7,DPW,Snow/Ice Removal,143.84285714285713
+617,7,DPW,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),85.31231481481481
+618,7,DPW,Street Cleaning,892.7073156008294
+619,7,DPW,Supercan - Delivery,334.1318543256994
+620,7,DPW,Supercan - Repair,1088.401858974359
+621,7,DPW,Trash Cart - Delivery,331.6972886093643
+622,7,DPW,Trash Cart Repair,1008.905135387488
+623,7,DPW,Trash Collection - Missed,59.503478183118744
+624,7,DPW,Vacant Lot - Public Property Only,78.81167238225882
+625,7,DPW,Yard Waste - Missed,95.81793124880468
+626,7,FEMS,FEMS - Community Events,303.4529166666667
+627,7,FEMS,FEMS - Fire Safety Education,1082.1686111111112
+628,7,FEMS,FEMS - Fire Safety Inspection,71.05833333333334
+629,7,FEMS,FEMS - Smoke Alarm Application,786.3123958333333
+630,7,ORM,How Is My Driving - Complaint,3768.9285648148143
+631,7,ORM,How Is My Driving - Compliment,6313.386111111111
+632,7,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+633,7,OUC,DC Government Information,0.002391304347826087
+634,7,OUC,Emergency - Flooding,0.0
+635,7,OUC,Emergency - Power Outage/Wires Down,0.0
+636,7,OUC,Hypothermia Shelter Information,0.0
+637,7,OUC,Illegal Fireworks,0.0096680216802168
+638,7,OUC,Pet Waste Complaint,0.01045992714025501
+639,7,OUC,Wire Down/Power Outage,0.009204980842911877
+640,8,DCRA,DCRA - Illegal Construction,249.1748169191919
+641,8,DCRA,DCRA - Vacant Private Property Inspection,1008.7977462352463
+642,8,DDOT,Alley Repair,861.0915151515153
+643,8,DDOT,Bicycle Services,164.1784722222222
+644,8,DDOT,Bus/Rail Issues,982.8342669753087
+645,8,DDOT,Parking Meter Repair,74.34261494252874
+646,8,DDOT,Pothole,270.258556929182
+647,8,DDOT,Resident Parking Permit,0.08388888888888889
+648,8,DDOT,Roadway Repair,2155.2668333333327
+649,8,DDOT,Roadway Signs,1764.0745476504155
+650,8,DDOT,Roadway Striping / Markings,1668.7822222222223
+651,8,DDOT,Sidewalk Repair,2606.612669753086
+652,8,DDOT,Streetlight Repair Investigation,131.7071078162183
+653,8,DDOT,Traffic Safety Investigation,895.762565690691
+654,8,DDOT,Traffic Signal Issue,156.8019012762762
+655,8,DDOT,Tree Inspection,35.06807581573894
+656,8,DDOT,Tree Planting,919.8932675438597
+657,8,DDOT,Tree Pruning,694.369316239316
+658,8,DDOT,Tree Removal,117.0341973180077
+659,8,DDOT,Utility Repair Issue,1510.734903846154
+660,8,DFHV,DFHV - For Hire Vehicle Concerns,0.11027777777777778
+661,8,DGS,DC Facilities Landscaping and Grounds Maintenance(DGS),62.9287114197531
+662,8,DMV,DMV - Appeal,334.0362962962963
+663,8,DMV,DMV - Copy of Ticket,173.7709043927648
+664,8,DMV,DMV - Driver Record Issues,209.3246111111111
+665,8,DMV,DMV - Driver and Vehicle Services Refund,228.86017094017095
+666,8,DMV,DMV - Drivers License/ID Issues,96.59564758698089
+667,8,DMV,DMV - Drivers License/ID Reinstatement,90.43641975308644
+668,8,DMV,"DMV - Forms, Applications, and Manuals Request",185.63400231481486
+669,8,DMV,DMV - Hearings,240.59814814814814
+670,8,DMV,DMV - Online Processing Issues,166.10698989898995
+671,8,DMV,DMV - Refunds - Tickets,237.35291666666663
+672,8,DMV,DMV - Ticket Payment Dispute,324.8350670498085
+673,8,DMV,DMV - Vehicle Inspection Issues,240.5920601851852
+674,8,DMV,DMV - Vehicle Insurance Lapse,196.6690972222222
+675,8,DMV,DMV - Vehicle Registration Issues,161.84767777777788
+676,8,DMV,DMV - Vehicle Title Issues,232.11888888888888
+677,8,DOEE,DOEE - Construction – Erosion Runoff,96.005
+678,8,DOEE,DOEE - Engine Idling Tips,1550.662361111111
+679,8,DOEE,DOEE - Nuisance Odor Complaints,921.9846969696969
+680,8,DOEE,DOEE - Reporting Electronics in Trash,0.10250000000000001
+681,8,DOH,Rodent Inspection and Treatment,223.15775515973982
+682,8,DPW,Abandoned Bicycle,205.59892953929534
+683,8,DPW,Abandoned Vehicle - On Private Property,593.9619518944232
+684,8,DPW,Abandoned Vehicle - On Public Property,562.4216261415513
+685,8,DPW,Alley Cleaning,708.8986339546785
+686,8,DPW,Bulk Collection,318.9272824034747
+687,8,DPW,Christmas Tree Removal-Missed,39.99842592592592
+688,8,DPW,Christmas Tree Removal-Seasonal,204.6330019841271
+689,8,DPW,Container Removal,420.5768836291914
+690,8,DPW,Dead Animal Collection,44.51489389604199
+691,8,DPW,Emergency No-Parking Verification,18.48720400728598
+692,8,DPW,Graffiti Removal,325.2997412480971
+693,8,DPW,Grass and Weeds Mowing,454.5449978956228
+694,8,DPW,Illegal Dumping,242.94752571345856
+695,8,DPW,Illegal Poster,47.94733091787442
+696,8,DPW,Leaf Season Collection,389.5470081967213
+697,8,DPW,Out of State Parking Violation (ROSA),45.11968183802667
+698,8,DPW,Parking Enforcement,21.578750533894688
+699,8,DPW,Public Space Litter Can- Installation/Removal/Repair,731.2638023088022
+700,8,DPW,Public Space Litter Can-Collection,17.029197154471547
+701,8,DPW,Rat Replacement Containers,459.7596006944445
+702,8,DPW,Recycling - School Program,3357.708888888889
+703,8,DPW,Recycling Cart - Repair,518.9690598290598
+704,8,DPW,Recycling Cart Delivery,365.90612075617287
+705,8,DPW,Recycling Collection - Missed,90.57165418227218
+706,8,DPW,Residential Parking Permit Violation,32.59324868860274
+707,8,DPW,Sanitation Enforcement,71.6103086419753
+708,8,DPW,Signed Street Sweeping Missed,242.96798611111114
+709,8,DPW,Snow/Ice Removal,14.395092592592592
+710,8,DPW,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),20.87125
+711,8,DPW,Street Cleaning,759.6337295825764
+712,8,DPW,Supercan - Delivery,300.0366961000736
+713,8,DPW,Supercan - Repair,926.0699214975847
+714,8,DPW,Trash Cart - Delivery,335.72084750566887
+715,8,DPW,Trash Cart Repair,1069.8033194444442
+716,8,DPW,Trash Collection - Missed,86.22068294409068
+717,8,DPW,Vacant Lot - Public Property Only,118.8296220400728
+718,8,DPW,Yard Waste - Missed,110.80287642782966
+719,8,FEMS,FEMS - Community Events,289.38668518518523
+720,8,FEMS,FEMS - Fire Safety Inspection,143.0511111111111
+721,8,FEMS,FEMS - Smoke Alarm Application,882.7588194444445
+722,8,ORM,How Is My Driving - Complaint,4358.2773611111115
+723,8,ORM,How Is My Driving - Compliment,0.15333333333333332
+724,8,OUC,Coronavirus (COVID-19) Mass Gathering Tracking,0.0
+725,8,OUC,DC Government Information,0.0028660893848927306
+726,8,OUC,Emergency - Flooding,0.0
+727,8,OUC,Emergency - Power Outage/Wires Down,0.0
+728,8,OUC,Emergency - Senior Assistance,0.0
+729,8,OUC,Hypothermia Shelter Information,0.0
+730,8,OUC,Illegal Fireworks,0.010169082125603865
+731,8,OUC,Pet Waste Complaint,0.010861111111111115
+732,8,OUC,Quarantine Resource and Service Request (COVID-19),0.014722222222222222
+733,8,OUC,Wire Down/Power Outage,0.010842293906810034
